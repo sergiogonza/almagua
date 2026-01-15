@@ -1,0 +1,236 @@
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>MGA IA – Fundación Almagua</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+
+<style>
+:root{
+  --bg:#1f2a2e;
+  --deep:#141c1f;
+  --gold:#d4af37;
+  --gold2:#f6e27a;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  background:radial-gradient(circle,var(--bg),var(--deep));
+  color:white;
+  font-family:system-ui;
+}
+header{
+  position:fixed;
+  top:0;
+  width:100%;
+  padding:16px;
+  text-align:center;
+  background:rgba(20,28,31,.85);
+  backdrop-filter:blur(8px);
+  z-index:1000;
+}
+.logo{max-width:160px}
+.section{
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  padding-top:140px;
+  position:relative;
+}
+.main-text{
+  font-size:clamp(2.6rem,6vw,3.8rem);
+  font-weight:800;
+  background:linear-gradient(45deg,var(--gold2),var(--gold));
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  transition:.3s;
+}
+.reveal{
+  position:absolute;
+  inset:0;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:clamp(2.6rem,6vw,3.6rem);
+  font-weight:800;
+  color:#141c1f;
+  background:linear-gradient(180deg,var(--gold2),#8fb7c8);
+  mask-image:radial-gradient(circle at var(--x,50%) var(--y,50%),black var(--r,0),transparent 0);
+  -webkit-mask-image:radial-gradient(circle at var(--x,50%) var(--y,50%),black var(--r,0),transparent 0);
+  pointer-events:none;
+}
+.cta{
+  position:fixed;
+  bottom:30px;
+  right:30px;
+  padding:16px 28px;
+  border-radius:40px;
+  border:none;
+  background:linear-gradient(45deg,var(--gold2),var(--gold));
+  font-weight:700;
+  cursor:pointer;
+}
+.overlay{
+  position:fixed;
+  inset:0;
+  display:none;
+  align-items:center;
+  justify-content:center;
+  background:rgba(0,0,0,.65);
+  backdrop-filter:blur(8px);
+  z-index:2000;
+}
+.popup{
+  background:white;
+  color:#1f2a2e;
+  padding:32px;
+  border-radius:22px;
+  width:92%;
+  max-width:520px;
+  display:grid;
+  grid-template-rows:auto auto 1fr auto;
+  gap:18px;
+}
+.popup-header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+.popup-header h3{margin:0}
+.popup-header button{
+  background:none;
+  border:none;
+  font-size:1.4rem;
+  cursor:pointer;
+  opacity:.6;
+}
+.popup p{
+  margin:0;
+  font-size:.95rem;
+  opacity:.85
+}
+.popup form{
+  display:grid;
+  gap:16px;
+}
+input{
+  width:100%;
+  padding:16px;
+  border-radius:14px;
+  border:1px solid #ccc;
+  font-size:1rem;
+}
+input:focus{
+  outline:none;
+  border-color:var(--gold);
+}
+button.submit{
+  padding:14px;
+  border-radius:30px;
+  border:none;
+  background:linear-gradient(45deg,var(--gold2),var(--gold));
+  font-weight:700;
+  cursor:pointer;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <img src="/assets/logo.png" class="logo" alt="Fundación Almagua">
+</header>
+
+<section class="section" id="hero">
+  <div class="main-text">
+    Las comunidades tienen ideas.<br>
+    La IA las convierte en MGA.
+  </div>
+  <div class="reveal">
+    IA territorial para proyectos reales.
+  </div>
+</section>
+
+<button class="cta" id="openBtn">Generar Proyecto MGA</button>
+
+<div class="overlay" id="overlay">
+  <div class="popup" id="popup">
+    <div class="popup-header">
+      <h3>Generador MGA</h3>
+      <button id="closeBtn">✕</button>
+    </div>
+
+    <p>
+      Ingresa el <strong>Código del Producto</strong> del Plan de Desarrollo.
+      El sistema generará el Documento Técnico MGA automáticamente.
+    </p>
+
+    <!-- FORMULARIO CORREGIDO -->
+    <form method="post" action="/generar">
+      <input
+        type="text"
+        name="codigo_producto"
+        placeholder="Ejemplo: 4103058"
+        required
+      >
+      <button class="submit" type="submit">
+        Generar ZIP MGA
+      </button>
+    </form>
+
+  </div>
+</div>
+
+<script>
+const hero = document.getElementById("hero");
+const reveal = document.querySelector(".reveal");
+const text = document.querySelector(".main-text");
+
+hero.addEventListener("mousemove", e => {
+  const b = hero.getBoundingClientRect();
+  gsap.to(reveal,{
+    "--x": e.clientX - b.left + "px",
+    "--y": e.clientY - b.top + "px",
+    "--r": "220px",
+    duration:.25
+  });
+  text.style.opacity = .15;
+});
+
+hero.addEventListener("mouseleave", () => {
+  gsap.to(reveal,{ "--r":"0px", duration:.35 });
+  text.style.opacity = 1;
+});
+
+const overlay = document.getElementById("overlay");
+const popup = document.getElementById("popup");
+const openBtn = document.getElementById("openBtn");
+const closeBtn = document.getElementById("closeBtn");
+
+openBtn.addEventListener("click", () => {
+  overlay.style.display = "flex";
+  gsap.fromTo(
+    popup,
+    {scale:.9, opacity:0},
+    {scale:1, opacity:1, duration:.35, ease:"power3.out"}
+  );
+});
+
+closeBtn.addEventListener("click", () => {
+  gsap.to(popup,{
+    scale:.9,
+    opacity:0,
+    duration:.25,
+    onComplete:()=> overlay.style.display="none"
+  });
+});
+
+overlay.addEventListener("click", e => {
+  if(e.target === overlay) closeBtn.click();
+});
+</script>
+
+</body>
+</html>

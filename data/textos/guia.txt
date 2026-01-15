@@ -1,0 +1,880 @@
+                                               INNPULSA COLOMBIA
+
+
+      FUNDACIÓN SUIZA DE COOPERACIÓN PARA EL DESARROLLO TÉCNICO - SWISSCONTACT
+
+
+
+    GUÍA PARA LA FORMULACIÓN DE PROYECTOS BAJO EL ENFOQUE
+                      DE MARCO LÓGICO
+
+
+
+
+                                                La presente guía está basada en el documento de la SECO1 y
+                                                                   adaptada a las necesidades del Programa
+                                                                                    Colombia + Competitiva
+
+
+
+
+1
+ SECO The Logical Framework https://www.seco-cooperation.admin.ch/dam/secocoop/de/dokumente/resultate/monitoring/quali-
+manual-framework.pdf.download.pdf/Logical%20Framework%20-%20User%20Manual.pdf.
+                 Bogotá D.C., junio 2017
+
+
+
+
+Página 2 de 17
+                                                            Tabla de Contenido
+
+1.      Introducción ................................................................................................................................ 4
+2.      Formulación del proyecto ........................................................................................................... 4
+3.      La metodología de marco lógico ................................................................................................. 5
+4.      Etapas para estructurar el proyecto:. ......................................................................................... 6
+     4.1       Etapa de Análisis: ................................................................................................................ 7
+     4.2       Etapa de Diseño: ................................................................................................................. 9
+     4.3       Etapa de Programación: .................................................................................................... 10
+5.      La Matriz del Marco Lógico ....................................................................................................... 11
+     5.1       Definición de los indicadores ............................................................................................ 11
+     5.1.1 Listado de indicadores de uso obligatorio ........................................................................ 12
+     5.1.2 Indicadores Adicionales..................................................................................................... 13
+     5.1.3 Ejemplos de posibles indicadores (solamente a modo de insumo) .................................. 13
+     5.2    Formato para la Matriz de Marco Lógico (En el anexo XXX se encontrará el formato en
+     Excel para ser llenado) .................................................................................................................. 16
+6.      Información y apoyo adicional .................................................................................................. 20
+     6.1       Consultas ........................................................................................................................... 20
+     6.2       Enlaces de utilidad ............................................................................................................ 20
+     6.3       Bibliografía de consulta: .................................................................................................... 20
+
+
+
+
+Página 3 de 17
+1.   Introducción
+
+El Programa Colombia+Competitiva es la iniciativa de la cooperación económica suiza para
+contribuir con los esfuerzos del país orientados a mejorar su competitividad y diversificar su
+economía, a través del fortalecimiento de su sector productivo y la creación de un entorno más
+favorable para los negocios. Uno de sus objetivos específicos es: Fortalecer cuatro cadenas de valor
+y clústeres productivos a nivel subnacional, facilitando la transformación y diversificación del
+aparato productivo colombiano hacia bienes más sofisticados. En su diseño se planteó un fondo de
+recursos concursable y que va dirigido al sector de construcción, turismo, industria cosmética en
+base de ingredientes naturales y cacao, para lo cual se lanza la convocatoria respectiva.
+
+Esta guía busca orientar la presentación y formulación de las propuestas para que no solo cumplan
+con los términos de referencia de la convocatoria, si no que apoye y facilite un análisis más profundo
+de la problemática o necesidades y las posibles soluciones y responsables de implementarlas. Este
+documento provee recomendaciones y orientaciones para diligenciar el formato de marco lógico.
+Sin embargo, se aclara que la información consignada en la matriz de marco lógico a partir de la
+interpretación de esta guía es responsabilidad del proponente. La información que se diligencie en
+la matriz será parte integral de la propuesta y deberá coincidir con todos los anexos.
+
+
+2.   Formulación del proyecto
+
+Todas las propuestas deberán presentarse aplicando la metodología de Marco lógico- ML que
+consiste en un proceso sistemático y analítico utilizado para la planificación y estructuración de
+proyectos2.
+
+La metodología ayuda a:
+
+        Analizar una situación existente, incluida la identificación de las necesidades de las partes
+         interesadas y la definición de los objetivos relacionados.
+        Establecer una relación causal entre insumos, procesos, productos, resultados y objetivos
+         (lógica vertical).
+        Definir los supuestos en los que se basa la lógica del proyecto.
+        Identificar los riesgos potenciales para lograr los objetivos y los resultados.
+        Establecer un sistema para monitorear y evaluar el desempeño del proyecto.
+        Establecer un proceso de comunicación y aprendizaje entre las partes interesadas, es
+         decir, los clientes / beneficiarios, planificadores, tomadores de decisiones y ejecutores.
+
+El punto de entrada convencional es el análisis del problema, seguido por un análisis de los actores
+(mapa de intereses y potenciales de los actores relevantes), un análisis objetivo (imagen de una
+situación mejorada en el futuro) y la selección de la estrategia de intervención preferida
+(comparación de diferentes "cadenas de objetivos”), es decir vincula directamente las necesidades
+con los resultados propuestos en el proyecto.
+
+
+
+2
+  En el presente documento, el término proyecto se utiliza como sinónimo de proyecto, programas y
+estrategias, ya que el Enfoque de Marco Lógico puede aplicarse para los tres.
+Sin embargo, hay otros puntos de entrada, en vez de un enfoque "orientado a problemas", puede
+ser más apropiado identificar las potencialidades presentes, de manera que se logre desarrollar una
+intervención dirigida al mercado de una forma sistémica.
+
+¿Quién debe estar involucrado?
+
+La planificación y gestión del proyecto siempre debe considerarse una tarea de equipo. Esto
+requiere dar a las principales partes interesadas la oportunidad de aportar insumos al proceso y al
+producto del ML. Idealmente este enfoque se desarrolla en un proceso consultivo, involucrando a
+los socios implementadores, así como a los clientes/ beneficiarios.
+
+¿Qué otros elementos se deben considerar?
+
+Para asegurar que toda la implementación del proyecto sea exitosa, sean considerados de manera
+adecuada en la fase de planificación, el ML debe ser complementado con:
+     Una evaluación de la (s) organización (es) que participarán en su ejecución. Ej: Capacidad,
+        competencia, intereses, división del trabajo (véase también ítem 2.5: Gestión basada en los
+        resultados).
+     Una evaluación del contexto institucional, Ej: Papel de cada una de las partes, políticas y
+        estrategias de los interesados pertinentes en el sector privado y el sector público).
+     Estudios de mercado y de due diligence (investigación de una empresa o sector) etc., según
+        corresponda.
+
+ Buenas Prácticas
+
+  Es recomendable diseñar el ML antes de elaborar la propuesta de proyecto, ya que esta herramienta
+   provee de los principales insumos para dicha propuesta.
+
+
+
+3.   La metodología de marco lógico
+
+¿Cuándo usarlo?
+
+La metodología de Marco Lógico (ML) puede utilizarse durante todo el ciclo de gestión del proyecto,
+es decir, para identificar, preparar, ejecutar, supervisar y evaluar proyectos. Si el ML se utiliza para
+conceptualizar proyectos y no como un mecanismo estándar para diseñar proyectos, tiene el
+potencial de una aplicación amplia y flexible.
+
+La siguiente matriz proporciona una visión general de los elementos más importantes del Marco
+Lógico, junto con una terminología común y sugerencias para el diligenciamiento de la misma. En la
+figura 1 se explica los pasos y las consideraciones para estructurar un proyecto con todos los
+elementos del ML.
+
+
+
+
+Página 5 de 17
+             Fases de Proyecto                                                        Fases de ML
+
+
+                                                             Análisis de los posibles cuellos de botella de cada uno de
+                                                                          los eslabones de cadena de valor
+                                                                                   (causa -efecto)
+                                         Análisis
+                                                                                  Análisis de los Actores
+  Identificación                                                (Identifique los intereses, expectativas, conflictos actuales y
+                                                                                            futuros)
+
+                                                                                   Análisis de Objetivo
+                                                              (situación deseable que se quiere alcanzar una vez resuelto los
+                                                                              problemas / cuellos de botella)
+
+                                                                                  Análisis de Estrategias
+                                                                    (alternativas de solución factibles de implementar)
+
+
+
+                                          Diseño                      Evaluación de las alternativas de solución
+        Diseño                                                  son las implicaciones de todas las posibles estrategias para
+                                                                           establecer los objetivos del proyecto
+
+                                                                              Implicaciones de Viabilidad
+Análisis Viabilidad y                                         (cómo se financia. Se define la oportunidad de costo-beneficio,
+   programación                                                           cómo funciona después del proyecto)
+ Tiempos y Costos
+                                                                         Implicaciones de Análisis de Actores
+                                   Programación                   (quién hace qué, cómo se beneficia, cómo se involucra.
+
+                                                                            Determinación de los productos
+                                                             Solo aquellos que tengan una incidencia directa con la estrategia
+  Formulación y
+                                                                             y con los logros de los resultados
+   Financiación
+                                  Ejecución y
+                                 Seguimiento                                Programación de las actividades
+                                                                            Se definen para lograr los productos
+       Evaluación
+                                                                              Elaboración de Presupuesto
+
+
+             Figura 1 Enfoque del Marco Lógico en comparación con las fases de un proyecto
+                             (fuente: Adaptado de Universidad Politécnica de Valencia)
+
+
+
+  4.     Etapas para estructurar el proyecto:.
+
+  Los proyectos orientados al desarrollo suelen diseñarse como un medio (o un conjunto de
+  intervenciones) para abordar y superar los problemas identificados. El Enfoque de Marco Lógico
+  proporciona un análisis estructurado de la situación existente; ayuda a identificar una situación
+  futura y mejorada, definiendo una estrategia para alcanzar la situación futura.
+
+
+
+  Página 6 de 17
+4.1 Etapa de Análisis:
+
+4.1.1 Análisis del problema: se analiza la problemática de uno o todos de los eslabones de cadena
+de valor (según interés del proponente) y las implicaciones que tiene en general en la cadena. Se
+identifican las "causas fundamentales" y la relación de causa y efecto entre los problemas que
+deben abordarse en el diseño del proyecto. Los métodos más usados para el análisis de los
+problemas son: DOFA, espina de Pescado (figura 2) o árbol de Problemas (figura 3).
+
+                 CAUSA                             EFECTO
+       Causa             Causa
+
+   Por qué              Por qué
+
+                                                  Problemática
+
+   Por qué               Por qué
+
+
+         Causa            Causa
+
+                  Figura 2: Espina de Pescado                                         Figura 3: Árbol de Problemas
+                                                                                               FUENTE: SECO
+
+
+
+Para efecto del programa Colombia + Competitiva un diagnóstico del funcionamiento de la cadena
+de valor, es un buen principio para establecer los cuellos de botella que afectan el buen desempeño
+de dicha cadena y establecer la problemática, que no siempre se relaciona con los actores
+principales de la cadena de valor, si no que se puede encontrar en las funciones de apoyo o reglas,
+siendo factores determinantes de las desventajas encontradas. (Ver guía para aplicación de
+metodología para Desarrollo de Sistemas de Mercados).
+
+Como mecanismo para la identificación de los problemas o cuellos de botella, se puede aplicar el
+método de los 5 ¿Por qué?, de tal forma que el análisis no resulte superficial, sino que se logre llegar
+al origen de la causa o “causa subyacentes”, siempre desde la visión del funcionamiento adecuado
+del sistema de mercado (ver figura 4).
+
+                                                      Síntoma       • ¿Por qué? 1
+
+                                                    Causa           • ¿Por qué? 2
+
+                                                        Casua       • ¿Por qué? 3
+
+                                                    Causa           • ¿Por qué? 4
+                                                        Causa       • ¿Por qué? 5
+                                                   Causa
+                                                 Subyacente
+                                                Figura 4: Método de los 5 ¿Por qué?
+
+
+Página 7 de 17
+ Buenas Prácticas
+
+  En algunas ocasiones puede ser aconsejable realizar el análisis de las partes antes de emprender el
+   análisis del problema. Por ejemplo, si es probable que existan fuertes intereses en competencia entre las
+   partes interesadas que pueden influir en su aporte al análisis del problema, entonces esto debería ser
+   valorado de antemano de manera que se realice un análisis de problemas transparente.
+
+4.1.2 Análisis de los actores y contexto: Se debe identificar quiénes son los más afectados por
+estos problemas, a quiénes afectan más los cuellos de botella, y cuáles podrían ser los papeles, los
+intereses y las potencialidades de las diferentes partes interesadas en el abordaje de los problemas.
+También quiénes podrían ser afectados negativamente por el proyecto y los conflictos de intereses
+existentes o potenciales.
+
+Para garantizar que el diseño de un proyecto responda a las necesidades reales de los diferentes
+grupos, es preferible que haya análisis múltiples e independientes.
+
+
+ Buenas Prácticas
+
+  Tenga en cuenta diferentes perspectivas, es decir, ¿quiénes sufren de los problemas que se abordan?
+  Recuerde que no todos los problemas reflejan necesidades reales.
+  Tenga en cuenta que los problemas no son la única "fuerza impulsora" del cambio.
+
+4.1.3 Análisis de Objetivo: Proporciona una visión general
+de la situación futura deseada, traduciendo los problemas en
+soluciones con las partes interesadas.
+
+Las afirmaciones positivas se pueden presentar en un
+diagrama de objetivos que muestran una jerarquía a partir
+de medios- fin, visualizando las relaciones causa -efecto
+sustituyendo los enunciados positivos por los problemas
+identificados.
+
+Una forma de realizar el análisis es bajo un árbol de objetivos
+como se puede ver en la figura 5 que utiliza exactamente la
+misma estructura que el árbol de problemas, de tal forma
+que de la misma manera que se postula los problemas se
+disponen las soluciones.
+                                                                        Figura 5: Árbol de Objetivos
+                                                                                FUENTE: SECO
+
+
+
+Sin embargo, no es necesario que todos los elementos de problemáticas originales identificados se
+traduzcan en objetivos. Además, algunos objetivos pueden resultar irrealistas, por lo que hay que
+encontrar otras soluciones al problema o la intención de resolverlo debe ser abandonada.
+
+
+ Buenas Prácticas
+
+  No tenga en consideración objetivos que no sean realistas.
+
+
+
+Página 8 de 17
+  Tenga en cuenta que puede existir un conflicto entre el objetivo general de desarrollo y los objetivos e
+   intereses más concretos de las diferentes partes interesadas.
+  Dé importancia especial a las estrategias que atiendan los cuellos de botella, fallas de mercado o de
+   gobierno que estén afectando la función principal de la cadena de valor
+
+4.1.4 Análisis de Estrategias: En esta fase se
+definen las alternativas, basadas en los méritos o
+dificultades potenciales y los riesgos asociados con
+las diferentes posibles intervenciones del proyecto.
+Por lo tanto, se identifican las posibles opciones de
+acción y se valora la posibilidad de llevarlas a la
+práctica. Se debe llegar a un consenso con las partes
+interesadas en participar, respecto a la estrategia
+del proyecto.
+
+Una forma de hacer la selección es agrupar las
+soluciones expuestas en el árbol de objetivos,
+definiendo un grupo de acciones que se convierten
+en áreas de intervención, tal como se define en la
+figura 6.
+                                                           Figura 6: Selección de la estrategia de intervención
+                                                                              FUENTE: SECO
+
+
+
+4.2 Etapa de Diseño:
+
+En esta etapa se traslada lo establecido en la Etapa del Análisis a una matriz de planificación del
+proyecto de la siguiente manera:
+
+4.2.1 Evaluación de las alternativas de solución: De las estrategias o las áreas de intervención
+definidas anteriormente, se seleccionan las más pertinentes y factibles, sobre la base de una serie
+de criterios:
+     Prioridades de las partes
+     Impacto sobre el grupo objetivo
+     Probabilidad de éxito
+     Pertinencia
+     Periodo de tiempo a cubrir
+     Contribución del proyecto a la cadena de valor
+     Intervención sistémica.
+
+De esta manera, se definen los objetivos del proyecto, que recaen en la(s) estrategia(s) de
+intervención seleccionada(s), expresadas y organizadas de tal forma que son leídas como objetivo
+de desarrollo, los resultados (efecto que se quiere dar para generar un impacto) y los productos
+(estímulo para generar el resultado), según la jerarquía identificada en las estrategias. En la figura
+7, se demuestra cómo se estructuran las alternativas de soluciones estratégicas en objetivos,
+resultado y productos.
+
+
+
+
+Página 9 de 17
+                            Estrategias de Intervención
+
+
+
+
+                   Figura 7: Selección de estrategia y traducción como objetivos del proyecto
+                                              FUENTE: ADAPTADO DE SECO
+
+
+
+Debido a las fortalezas analíticas y lógicas del ML, junto con otras herramientas, es un elemento
+importante para la gestión basada en resultados de los proyectos. Para cumplir con los resultados
+propuestos los proyectos deben considerar o incluir los siguientes aspectos:
+    Resultados tangibles.
+    Aclarar quiénes son los clientes o beneficiarios, participantes y el implementador
+       (organizaciones).
+    Promover la evaluación comparativa y el análisis del desempeño.
+    Enfatiza la relación calidad-precio.
+    Pasa de las operaciones de entrada (orientadas al presupuesto) a las de producción
+       (orientadas a los resultados).
+
+4.2.2 Implicaciones de Viabilidad: En esta fase se valora la calidad del diseño y la garantía de éxito
+del proyecto, teniendo en cuenta los factores externos y los recursos disponibles tal forma que se
+puede hacer un re-direccionamiento de las estrategias para lograr el objetivo.
+
+4.2.3 Implicaciones de Análisis de Actores: Es importante definir dentro del proceso quién va a
+ejecutar las acciones, cómo se financia cada una y cómo se definen las responsabilidades dentro del
+proceso, además de establecer el impacto que se generará a los beneficiarios o grupo de
+intervención.
+
+4.2.4 Determinación los productos: Los productos se definen como el estímulo al proceso de
+intervención que genera un cambio, como es la generación de capacidades y oferta de servicios que
+la cadena de valor requiere para ser más eficiente.
+
+
+4.3 Etapa de Programación:
+
+4.3.1 Programación de las actividades: Una vez se definan los productos, se establece qué
+acciones esenciales se necesitan para obtener los productos en un tiempo determinado.
+
+4.3.2 Elaboración de Presupuesto: Con las actividades establecidas, se asigna los insumos
+requeridos para ejecutarlas de una forma adecuada. Se debe tener en cuenta los recursos
+financieros, humanos y materiales.
+
+Página 10 de 17
+5.     La Matriz del Marco Lógico
+
+Los resultados del análisis del marco lógico se presentan y se analizan más a fondo en la llamada
+matriz del marco lógico. La matriz proporciona esencialmente un resumen del proyecto hasta el
+nivel de actividades. Las actividades se enlistan en la matriz del Marco Lógico, usando una
+numeración sistemática, tal como se muestra en la figura 8, permitiendo establecer el enlace con
+los productos de la matriz del Marco Lógico.
+
+
+
+
+                    Figura 8: Transcripción de diseño del proyecto a la matriz de marco lógico.
+                                               FUENTE: ADAPTADO DE SECO
+
+
+
+En primera instancia se identifica lo que el proyecto pretende hacer (estrategia de intervención),
+permitiendo mostrar la relación causal entre los diferentes niveles del sistema objetivo (columna 1
+de la matriz de ML descrito en el ítem 5.2) y los supuestos y riesgos (columna 5, de la matriz de ML
+descrito en el ítem 5.2)) que están más allá del control de la gestión de proyectos
+
+5.1 Definición de los indicadores
+
+Dentro del proceso de estructuración del ML es indispensable generar un mecanismo de verificación
+y monitoreo del desempeño de los objetivos y los productos a largo de la ejecución del proyecto. El
+mecanismo más adecuado es la generación de indicadores SMART (palabra inglesa que significa
+inteligente), que a manera de acrónimo define las propiedades que debe contener un indicador, tal
+como se define a continuación:
+
+S = Specific / eSpecíficos – relacionados a lo que el proyecto busca cambiar.
+M = Meadurable / Medibles – que puedan ser agregados y analizados estadísticamente.
+A = Achievable / Alcanzable – razonables en costo y método de recolección.
+R = Realistic / Realista – que los datos a obtener estén dentro de las posibilidades del proyecto.
+T = Time Bound / Acotado en el Tiempo – el cálculo debe estar dentro de un periodo determinado
+ Buenas Prácticas
+
+  Los indicadores pueden ser complejos o simples de acuerdo los requerimientos del proyecto formulado.
+  Es mejor utilizar solamente el número de indicadores necesarios para establecer lo que se quiere
+   alcanzar.
+
+
+Página 11 de 17
+Los indicadores junto con las fuentes verificación y la periodicidad de mediación, establecen la base
+del sistema de seguimiento y monitoreo del proyecto.
+
+    5.1.1     Listado de indicadores de uso obligatorio
+
+El listado siguiente muestra el conjunto de los indicadores del Programa Colombia + Competitiva, a
+cuyo cumplimiento deben contribuir los proyectos aprobados a través del Fondo Competitivo.
+El listado no es limitativo. Cada proponente deberá construir aquellos indicadores que considere
+pertinentes para sus intervenciones, siendo necesario, sin embargo, incluir por lo menos uno de los
+indicadores del listado en cada nivel del Marco Lógico, según la pertinencia con el proyecto.
+Si bien el programa se orienta a promover mercados internacionales, los proyectos relacionados con
+el sector construcción NO se encuentran obligados a usar indicadores de exportaciones.
+
+          Tabla 1: Lista de indicadores obligatorios (use por lo menos uno en cada nivel)
+CÓDIGO                                            INDICADOR
+Indicadores a nivel de objetivo general
+           % del aumento de exportaciones (volumen) de bienes y servicios sostenibles. en las
+I 2.1.a
+           cadenas de valor seleccionadas.
+           % del aumento en el volumen de exportaciones de bienes y servicios certificados
+I 2.1.b
+           sostenibles en las cadenas de valor seleccionadas
+           Aumento de exportaciones (USD) de bienes y servicios sostenibles, en las cadenas de
+I 2.2.a
+           valor seleccionadas.
+           Aumento en el (USD) de exportaciones de bienes y servicios certificados sostenibles en
+I 2.2.b
+           las cadenas de valor seleccionadas
+I 2.3.a    # de empleos retenidos aplicado a cadenas de valor seleccionadas
+I 2.3.b    % de empleos retenidos por mujeres aplicado a cadenas de valor seleccionadas
+I 2.4.a    # de empleos nuevos creados aplicado a cadenas de valor seleccionadas
+I 2.4.a    % de empleos nuevos creados para mujeres aplicado a cadenas de valor seleccionadas
+Indicadores a nivel de objetivos específicos
+           % Incremento de la productividad en las empresas/unidades productivas de las cadenas
+R 2.1
+           de valor atendidas.
+R 2.2.a    # de empresas o unidades productivas alistadas para la internacionalización
+R 2.2.b    % de empresas conducidas por mujeres alistadas para la internacionalización
+           % del aumento en el volumen de productos o servicios alistados para la
+R 2.3
+           internacionalización.
+           % del aumento del número de productos o servicios alistados para la
+R 2.4
+           internacionalización
+Indicadores a nivel de producto
+Línea de Acción: Acceso Financiero
+           # de productos financieros generados o mejorados dirigidos a unidades productivas y
+P 2.1.1
+           empresariales de pequeña escala en los sectores priorizados.
+           # unidades productivas que acceden a los servicios financieros generados o mejorados
+P 2.1.2.a
+           (diferenciadas por género).
+           % de unidades productivas conducidas por mujeres que acceden de los servicios
+P 2.1.2.b
+           financieros mejorados o generados
+Línea de Acción: Internacionalización
+
+Página 12 de 17
+CÓDIGO                                             INDICADOR
+P 2.2.1    # de empresas que implementan estrategias para insertase a mercados internacionales
+P 2.2.2    # de empresas articuladas con iniciativas de promoción de exportaciones
+Línea de Acción: Cumplimiento de Estándares
+P 2.3.1    # de empresas/unidades productivas implementado prácticas de sostenibilidad.
+           # de empresas/unidades productivas certificadas con estándares voluntarios u
+P 2.3.2.a
+           obligatorios.
+           % de empresas/unidades productivas certificadas con estándares voluntarios u
+P 2.3.2.b
+           obligatorios conducidas por mujeres.
+Línea de Acción: Desarrollo de capacidades del talento humano
+           # programas de formación que mejoran la calidad de su oferta (relacionados con las
+P 2.4.1
+           cadenas de valor seleccionadas).
+           # de personas formadas para adquirir nuevas o mejores habilidades (directamente por
+P 2.4.2.a
+           el proyecto)
+           % de mujeres formadas para adquirir nuevas o mejores habilidades (directamente por
+P 2.4.2.b
+           el proyecto)
+P 2.4.3    # de personas formadas (indirectamente)
+Línea de Acción: Innovación
+           # de empresas que adoptan estrategias o prácticas innovadoras (aplicado a cadenas de
+P 2.5.1
+           valor seleccionadas).
+P 2.5.2    # de iniciativas de innovación diseñadas
+P 2.5.3    % de iniciativas de innovación implementadas.
+
+      5.1.2    Indicadores Adicionales
+
+Cuando el proyecto así lo amerite, se recomienda el uso del siguiente indicador estándar de SECO
+
+                                   Tabla 2: Indicador adicional
+    CÓDIGO                                       INDICADOR
+           Uso de los Indicadores Doing business subnacional3 (ciclo de 5 años), WEF, IGD y otros
+     I O.3
+           según pertinencia
+           Ahorro de los costos en USD simplificando / eliminando procedimientos que plantean
+     I O.4
+           un obstáculo
+
+
+      5.1.3    Ejemplos de posibles indicadores (solamente a modo de insumo)
+
+Cada proponente deberá construir aquellos indicadores que considere pertinentes para sus
+intervenciones. En la Tabla 3 se presenta un listado de ejemplos de indicadores, en el que se pueden
+apoyar para su formulación. Estos indicadores son solamente referenciales, no es un listado
+exhaustivo y no son de uso obligatorio ni su uso implicará un puntaje adicional para las propuestas.
+
+Además de los indicadores orientados a resultados se recomienda definir indicadores que midan las
+dimensiones de sostenibilidad económica, social y ambiental, así como que consideren la
+contribución a la inclusión y equidad de género.
+
+3
+    Aplicable cuando el reporte Doing Business 2016 sea publicado.
+
+Página 13 de 17
+                             Tabla 3: Lista de indicadores orientadores
+        SECTOR                                            INDICADOR
+Indicadores a nivel de objetivo general
+                          % del aumento de exportaciones (volumen) de cacao provenientes de la
+Cacao Especiales
+                          región(es) intervenida(s)
+                         % del aumento de exportaciones (USD) de los destinos / región(es)
+Turismo
+                         intervenida(s)
+                         Volumen exportado de materiales para la construcción con certificación
+                         de sostenibilidad
+                         % del aumento de áreas construidas con certificación sostenible
+Construcción
+                         # de habitantes que se benefician de proyectos de desarrollo urbano
+                         sostenible
+                         % de aumento de la productividad para la industria para la competitividad
+                         % de la disminución de las importaciones (volumen/USD) del ingrediente
+                         natural XXX en la cadena de valor de la cosmética
+Ingredientes Naturales
+                          % del aumento de exportaciones (USD) de cosméticos en base de
+                          ingredientes naturales provenientes de la región(es) intervenida(s)
+Indicadores a nivel de objetivos específicos
+                          % del aumento de ocupación hotelera por extranjeros
+Turismo
+                          # de turistas que visitan los destinos desarrollados o mejorados
+                          # de empresas proveedoras de materiales sostenibles que se articulan al
+                          mercado
+Construcción
+                          # de empresas de servicios para la infraestructura que pueden ofertar un
+                          producto a la medida
+                          # de empresas proveedoras que se articulan a empresas ancla de
+Ingredientes Naturales
+                          cosméticos
+                          % de fallas de mercado atendidas para potenciar la competitividad y
+                          productividad del sector (cacao, turismo, construcción sostenible,
+                          infraestructura e ingredientes naturales para la cosmética)
+                         # de empresarios/productores que acceden a los servicios y productos
+General
+                         que mejoran la calidad de sus bienes / productos
+                         # de iniciativas estratégicas que contribuyen a escalar las actividades
+                         productivas del sector (cacao, turismo, construcción sostenible,
+                         infraestructura e ingredientes naturales para la cosmética)
+Indicadores a nivel de producto
+Línea de Acción: Acceso Financiero
+                          # de entidades financieras que diseñan productos especialmente dirigidos
+                          a cacaoteros para la mejora de su productividad
+Cacao Especiales
+                          # de empresas chocolateras que acceden a servicios financieros para
+                          optimizar su producción para la exportación.
+
+
+
+Página 14 de 17
+                         % de empresas de servicios o productos que acceden a servicios
+Turismo
+                         financieros enfocados a mejoramiento productivo
+                         # de entidades financieras que diseñan e implementan servicios
+Construcción             financieros con condiciones especiales para proyectos de construcción
+                         sostenible.
+                         # de empresas o unidades productivas que acceden a servicios financieros
+Ingredientes Naturales
+                         para financiar procesos de certificación
+                          % de inversiones verdes (USD) e instrumentos de financiamiento en
+General
+                          proyectos de sostenibilidad
+Línea de Acción: Cumplimiento de Estándares
+                          % del aumento de áreas cacaoteras certificadas en sostenibilidad (buenas
+Cacao Especiales          prácticas), a través de empresas certificadoras promovidas por el
+                          proyecto.
+                          # de empresas de servicios turísticos que acceden a servicios
+Turismo                   especializados para el cumplimiento de las normativas nacionales e
+                          internacionales para una oferta en turismo de naturaleza
+                          # de empresas de materiales sostenibles que logran la certificación o
+Construcción
+                          reconocimiento para su uso en proyectos sostenibles.
+                          % del aumento de áreas productivas en implementación de procesos de
+Ingredientes Naturales
+                          sostenibilidad
+                          # de empresas consultoras disponibles para brindar servicios para la
+General
+                          implementación de sellos de sostenibilidad en los sectores
+Línea de Acción: Desarrollo de capacidades del talento humano
+                          # de unidades de formación (carreras, cursos de formación
+                          complementaria, otros) que se actualizan para responder a las
+                          necesidades del sector.
+General                   # de organizaciones, empresas o unidades productivas capacitadas y
+                          fortalecidas en administración de negocios internacionales
+                          # de empresas que aprovecharon las capacidades especializadas
+                          mejoradas para aumentar su eficiencia
+Línea de Acción: Innovación
+                          Ahorro en costos (USD) que provienen del ejercicio de la innovación
+                          % empresas que aceleraron su capacidad para adoptar innovación en el
+General                   sector
+                          # de empresas que aumentaron su eficiencia en las decisiones de compra
+                          de maquinaria, insumos y servicios de innovadores
+
+
+
+
+Página 15 de 17
+  5.2 Formato para la Matriz de Marco Lógico
+  (En el anexo para formulación de propuestas -formato Excel- se encontrará la plantilla para elaboración del Marco Lógico)
+                                             Indicadores Claves de
+       Estrategia de Intervención
+                                                 Desempeño
+   (Cadena de resultados /Jerarquía de
+                                         Los indicadores miden si se
+                 objetivos)                                                                                Medios de Verificación              Factores Externos
+                                          alcanzan los objetivos en                   Meta
+  Sugerencia: Use declaraciones de una                                                                       (Fuente de datos)               (supuestos / riesgos)
+                                         cada nivel, mientras que los
+oración, en forma de un estado alcanzado
+                                         estándares definen el nivel
+     o un infinitivo (para hacer algo)
+                                          de desempeño esperado
+
+OBJETIVO GENERAL                        Indicadores de impacto
+(Objetivo de desarrollo / meta general)       inmediato
+Definición:                                  Definición:                   Definición:                   Definición:                  Definición:
+Situación prevista al finalizar o poco       Condiciones finalizado el     Es el resultado que se quiere Medios de verificación       Los supuestos son condiciones
+después de la vida útil del proyecto en      proyecto que indican que se   alcanzar con el indicador.    indican dónde y de qué       que pueden afectar el progreso
+términos de ganancias en el desempeño        ha logrado el objetivo.       Las metas deben ser           forma se puede encontrar la del proyecto pero que no están
+(como resultado de cambios en el                                           realizables y tener recursos información sobre el logro bajo control directo de la
+conocimiento y el comportamiento).                                         para lograrlo.                de los objetivos y           gestión del proyecto.
+                                                                                                         resultados, ej: entrevistas,
+Alcance de la gestión de proyectos:                                        Nota: Para establecer una     datos generados desde el Una suposición es una
+El logro del objetivo general depende de                                   meta medible y alcanzable es empresario o el productor, afirmación positiva de una
+los supuestos formulados a nivel de                                        importante realizar un        estadísticas, evaluaciones, condición que debe cumplirse
+resultados.                                                                diagnóstico preliminar del etc.                            para alcanzar los objetivos del
+Ejemplo de objetivo general: “Se reduce la                                 sector a intervenir y                                      proyecto.
+deserción escolar de los estudiantes de                                    determinar la capacidad de Nota: Puede ser útil también
+educación primaria”                                                        cambio que el proyecto        indicar los medios y métodos Un riesgo es una afirmación
+                                                                           quiere logar.                 para recolectar y reportar   negativa de una condición que
+                                                                                                         información (monitoreo).     podría impedir que los objetivos
+                                                                                                                                      del proyecto se alcancen.
+                                             Indicadores Claves de
+       Estrategia de Intervención
+                                                 Desempeño
+   (Cadena de resultados /Jerarquía de
+                                         Los indicadores miden si se
+                 objetivos)                                                       Medios de Verificación            Factores Externos
+                                          alcanzan los objetivos en        Meta
+  Sugerencia: Use declaraciones de una                                              (Fuente de datos)             (supuestos / riesgos)
+                                         cada nivel, mientras que los
+oración, en forma de un estado alcanzado
+                                         estándares definen el nivel
+     o un infinitivo (para hacer algo)
+                                          de desempeño esperado
+OBJETIVOS ESPECÍFICOS                       Indicadores de resultado
+(Resultados de Proyecto)
+Definición:                                                                                                Sugerencia: Para asegurar una
+Son los diferentes efectos que contribuyen Los indicadores de este nivel                                   lógica vertical acertada, es
+a alcanzar el propósito del proyecto. Puede del marco lógico se llaman                                     esencial atribuir los supuestos al
+haber más de un objetivo específico, de     indicadores de efectividad.                                    nivel de intervención que
+hecho, tantos como actores clave y                                                                         corresponden. En este recuadro
+cambios de sean necesarios para que la                                                                     se deben colocar los supuestos a
+intervención tenga el efecto deseado.                                                                      nivel de resultados que son
+                                                                                                           relevantes para alcanzar el
+Alcance de la gestión de proyectos:                                                                        objetivo de desarrollo
+El logro en materia de resultados depende
+principalmente de los productos del
+proyecto, pero depende también de
+factores que escapan al control del
+proyecto.
+
+Sugerencia: Cuando los proyectos tienen
+varios componentes, formule una
+declaración de resultados para cada
+componente.
+
+Ejemplo de objetivo específico 1: “Se
+mejoran las capacidades de los maestros
+de educación primaria en temas
+relacionados con conflictividad familiar”
+
+
+
+
+  Página 17 de 17
+                                             Indicadores Claves de
+       Estrategia de Intervención
+                                                 Desempeño
+   (Cadena de resultados /Jerarquía de
+                                         Los indicadores miden si se
+                 objetivos)                                                       Medios de Verificación            Factores Externos
+                                          alcanzan los objetivos en        Meta
+  Sugerencia: Use declaraciones de una                                              (Fuente de datos)             (supuestos / riesgos)
+                                         cada nivel, mientras que los
+oración, en forma de un estado alcanzado
+                                         estándares definen el nivel
+     o un infinitivo (para hacer algo)
+                                          de desempeño esperado
+
+PRODUCTOS
+                                             Indicadores de producto
+(entregables)
+Definición:
+Productos y servicios producidos o         Definición:                                                     Sugerencia: Formular supuestos
+competencias y capacidades generadas       Medidas de la cantidad y                                        a nivel de producto que sean
+directamente como resultado de las         calidad de los productos.                                       relevantes para lograr el (los)
+actividades del proyecto.                                                                                  objetivo (s) del proyecto.
+                                           Nota 1: Los indicadores de
+Alcance de la gestión de proyectos:        producto se utilizan
+Los productos están bajo el control /      predominantemente durante
+responsabilidad de la dirección del        el seguimiento y la revisión.
+proyecto (para gestión desde múltiples
+agencias,)                                 Nota 2: Cuando sea
+                                           pertinente se debe
+                                           evidenciar dos tipos de
+Ejemplo de Producto 1.1.: Se desarrolla    indicadores; el primero que
+módulo de formación en temas de            demuestre la generación de
+conflictividad familiar para maestros de   oferta de servicios o
+educación primaria.                        productos y un segundo que
+                                           demuestre el acceso de los
+                                           beneficiarios al servicio o
+                                           producto.
+
+
+
+
+  Página 18 de 17
+                                             Indicadores Claves de
+       Estrategia de Intervención
+                                                 Desempeño
+   (Cadena de resultados /Jerarquía de
+                                         Los indicadores miden si se
+                 objetivos)                                                           Medios de Verificación               Factores Externos
+                                          alcanzan los objetivos en          Meta
+  Sugerencia: Use declaraciones de una                                                  (Fuente de datos)                (supuestos / riesgos)
+                                         cada nivel, mientras que los
+oración, en forma de un estado alcanzado
+                                         estándares definen el nivel
+     o un infinitivo (para hacer algo)
+                                          de desempeño esperado
+Actividades
+                                              Insumos                               Costo
+(Componentes de Proyecto)
+Definición:                                  Definición:
+Tareas específicas realizadas utilizando Recursos físicos y no físicos              Los costos serán detallados   Sugerencia: Formular supuestos
+recursos y métodos para lograr los (personal, equipo) y                             en el presupuesto del         a nivel de actividad / insumos
+resultados deseados.                         financiamiento necesario               proyecto (no consignarlo en   que sean relevantes para lograr
+                                             para realizar las actividades          el Marco Lógico)              los resultados de proyectos. (No
+Alcance de la gestión de proyectos:          planeadas y administrar el                                           obligatorio)
+Los factores críticos para llevar a cabo las proyecto.
+actividades     son    las     competencias
+profesionales, la disponibilidad de recursos Nota: Los datos de los
+financieros suficientes y la capacidad de insumos y el presupuesto no
+asimilación de los socios locales, así como se incluyen en la matriz, pero
+de los grupos destinatarios y los se detallan en el presupuesto
+beneficiarios.                               del proyecto.
+
+Sugerencia: La matriz no debe incluir toda
+la lista de actividades del proyecto. Debe
+centrarse en lo que el proyecto debe
+entregar y no en cómo. La lista completa
+de actividades pertenece al texto principal
+del documento del proyecto y se hace
+referencia numérica para mostrar el
+vínculo entre las actividades y los
+productos.
+
+
+
+
+  Página 19 de 17
+    Buenas Prácticas
+
+     A menudo la distinción entre resultado y el producto no es tan obvia. En tal caso, puede ser de ayuda el
+      identificar el propósito primordial del proyecto.
+     Sea consistente al formular los objetivos. Use verbos en infinitivo ("hacer algo") o en tiempo pasado
+      (ejemplo, mejorar, fortalecer, aunar, introducir, entre otros) Ejemplo: Se mejoran las capacidades de…
+     Tenga en cuenta que el marco lógico siempre seguirá siendo un borrador porque es sólo una mirada
+      inmediata de una situación en un momento determinado. Por lo tanto, puede ser necesario ajustar la
+      matriz con el transcurso del tiempo, a medida que cambian las condiciones.
+     No es necesario definir indicadores para las actividades (si están incluidos en el marco lógico). Esto va en
+      consonancia con los esfuerzos del programa para fomentar el monitoreo y la presentación de informes
+      por objetivos en lugar de aquellos tradicionales basados en actividades.
+     Es aconsejable mapear todo el proyecto en el marco lógico para asegurarse que se están considerando
+      todos los vínculos importantes dentro del proyecto. Sin embargo, las responsabilidades en materia de
+      entrega de productos deben estar registradas en el documento del proyecto o en el contrato más que en
+      la propia matriz del Marco Lógico.
+
+
+6.     Información y apoyo adicional
+
+6.1 Consultas
+
+Para cualquier información adicional, requerimiento o aclaración se puede comunicar al correo
+electrónico veronica.leal@swisscontact.org.
+
+Al hacerlo, es necesario dirigirse con preguntas específicas, ya sea por escrito y proporcionando
+todo el material de contexto necesario. Se atenderá las solicitudes lo antes posible.
+
+6.2 Enlaces de utilidad
+
+      Documentos del Banco Mundial relacionados: http://www.worldbank.org/oed/ecd/tools/
+       http://www1.worldbank.org/education/adultoutreach/designing.logframe.asp
+
+      The Logical Framework Approach, Guidelines of the AusAID, Australian Government:
+       http://www.ausaid.gov.au/ausguide/ausguidelines/1.cfm
+
+6.3 Bibliografía de consulta:
+
+      CALABUIG C., MONTEVERDE R., et al, 2005, Identificación y Formulación de Proyectos de
+       Cooperación para el Desarrollo. Editorial de la UPV.
+
+      SECO, 2016. The Logical Framework.
+https://www.seco-cooperation.admin.ch/dam/secocoop/de/dokumente/resultate/monitoring/quali-
+manual-framework.pdf.download.pdf/Logical%20Framework%20-%20User%20Manual.pdf
+

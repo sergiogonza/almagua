@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+python-docx
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+pypdf
+openai
+openpyxl
+
