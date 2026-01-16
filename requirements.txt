@@ -6,8 +6,8 @@ langchain
 langchain-openai
 langchain-community
 langchain-text-splitters
+python-multipart
 faiss-cpu
 pypdf
 openai
 openpyxl
-
